@@ -7,8 +7,8 @@ saving favorites and managing participation.
 
 ## Team
 
-- Muhammed Medenioğlu
-- Fatma Bakır
+- Muhammed Medenioğlu 10372591648
+- Fatma Bakır 50782568090
 
 Both members worked together on development and testing.
 
