@@ -12,8 +12,6 @@ saving favorites and managing participation.
 
 Both members worked together on development and testing.
 
-Student IDs are omitted from this public repository for privacy
-and will be provided privately to the instructor.
 
 ## Features
 
