@@ -70,7 +70,6 @@ Tools • Dart 3.13.5 • DevTools 2.60.0
 
 ## Asset Credits
 
-- Category images were generated using OpenAI ChatGPT.
 - Poppins font: https://fonts.google.com/specimen/Poppins
 - Font license: SIL Open Font License, included in assets/fonts/OFL.txt.
 
